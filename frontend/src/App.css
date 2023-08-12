@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("./pngtree-emoji-of-social-media-or-chat-application-network-emoticon-background-image_985694.jpg");
+background-position: center;
+  background-size: cover;
+}
